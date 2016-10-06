@@ -1,10 +1,11 @@
-1. The program ignores non-alphabetical characters, since they cannot be vowels.
-Input Example: "1"
-Output Example: 0
 
-2. The program adds ay to the end of any word that begins with a specific lower case vowel.
+1. The program adds ay to the end of any word that begins with a specific lower case vowel.
 Input Example: "a"
 Output Example: aay
+
+2. The program ignores non-alphabetical characters, since they cannot be vowels.
+Input Example: "1"
+Output Example: 0
 
 3. The program adds ay to the end of any word that begins with any lower case vowel.
 Input Example: "array"
